@@ -4,4 +4,5 @@
 > [**CnUnicom.sh**](https://github.com/mixool/HiCnUnicom/blob/master/tutorial/CnUnicom_sh_readme.md)  
 > [**UnicomGetCoin.py**](https://github.com/mixool/HiCnUnicom/blob/master/tutorial/UnicomAutoGetCoin_py_readme.md)  
 > [**使用github自动运行，无需自己的服务器**](https://github.com/hzys/HiCnUnicom)  
-> 群友发现个厉害的版本： https://github.com/lunnlew/AutoSignMachine  
+> 群友发现个厉害的版本： https://github.com/lunnlew/AutoSignMachine    
+     
